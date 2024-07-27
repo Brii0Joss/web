@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: linear-gradient(to right, pink 0%, pink 50%, whitesmoke 50%, whitesmoke 100%);
+	min-height: 100vh;
+
+	display: flex;
+	font-size: 50px;
+	justify-content: center;
+
+}
+div.content{
+	position: relative;
+	top: ;
+}
+
+nav{
+	align-content: left;
+	justify-content: left;
+	background-color: pink;
+}
+
